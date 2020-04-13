@@ -1,0 +1,6 @@
+C:\Users\panos\source\repos\Rizos_PrivateSchool_PartB\Rizos_PrivateSchool_PartB\bin\Debug\Rizos_PrivateSchool_PartB.exe.config
+C:\Users\panos\source\repos\Rizos_PrivateSchool_PartB\Rizos_PrivateSchool_PartB\bin\Debug\Rizos_PrivateSchool_PartB.exe
+C:\Users\panos\source\repos\Rizos_PrivateSchool_PartB\Rizos_PrivateSchool_PartB\bin\Debug\Rizos_PrivateSchool_PartB.pdb
+C:\Users\panos\source\repos\Rizos_PrivateSchool_PartB\Rizos_PrivateSchool_PartB\obj\Debug\Rizos_PrivateSchool_PartB.csprojAssemblyReference.cache
+C:\Users\panos\source\repos\Rizos_PrivateSchool_PartB\Rizos_PrivateSchool_PartB\obj\Debug\Rizos_PrivateSchool_PartB.exe
+C:\Users\panos\source\repos\Rizos_PrivateSchool_PartB\Rizos_PrivateSchool_PartB\obj\Debug\Rizos_PrivateSchool_PartB.pdb

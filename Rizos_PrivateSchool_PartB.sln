@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rizos_PrivateSchool_PartB", "Rizos_PrivateSchool_PartB\Rizos_PrivateSchool_PartB.csproj", "{698B304F-0DCD-4ED3-956F-EAC8DCCAFD2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{698B304F-0DCD-4ED3-956F-EAC8DCCAFD2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{698B304F-0DCD-4ED3-956F-EAC8DCCAFD2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{698B304F-0DCD-4ED3-956F-EAC8DCCAFD2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{698B304F-0DCD-4ED3-956F-EAC8DCCAFD2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E382D11-CAB4-454D-8A71-CE8B7C2166DF}
+	EndGlobalSection
+EndGlobal
